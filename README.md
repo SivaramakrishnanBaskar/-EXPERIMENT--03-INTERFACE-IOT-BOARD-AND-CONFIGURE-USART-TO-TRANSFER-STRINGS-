@@ -5,7 +5,7 @@
 ###  ROLL NO : 212222110044
 ###  DEPARTMENT: CSE(Iot)
 
-# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+# EXPERIMENT--03-Interface iot development board and configure the USART for transferring strings
 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 
