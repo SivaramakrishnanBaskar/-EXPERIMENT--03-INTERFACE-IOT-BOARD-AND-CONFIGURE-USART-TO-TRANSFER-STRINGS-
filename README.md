@@ -45,6 +45,9 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 
 ## STM 32 CUBE PROGRAM :
+
+```
+
 Developed by : Sivaramakrishnan B
 Register number : 212222110044
 
@@ -173,7 +176,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 
 }
-#endif 
+#endif
+
+```
 
 ## Output screen shots of Serial port utility   :
  
