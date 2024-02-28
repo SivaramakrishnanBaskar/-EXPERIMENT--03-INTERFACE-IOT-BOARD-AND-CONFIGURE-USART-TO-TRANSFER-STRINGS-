@@ -179,6 +179,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 
 ```
+## Output screen shots of Board   :
+![IOT OUT 3 BOARD](https://github.com/SivaramakrishnanBaskar/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/119476322/9f673cba-ab8e-4ac1-86be-890bbc910f48)
+
 
 ## Output screen shots of Serial port utility   :
  
